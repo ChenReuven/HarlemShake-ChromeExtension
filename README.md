@@ -11,5 +11,6 @@ How to install it to chrome extenstion?
  - or use shortcut: "Ctrl + Shift + F" or "MacCtrl + Shift + F"
  
  ![Alt Text](https://github.com/ChenReuven/HarlemShake-ChromEextenstion/blob/master-copy/giphy.gif)
- ![grab-landing-page](https://github.com/ChenReuven/HarlemShake-ChromEextenstion/blob/master-copy/giphy.gif)
+ 
+ 
  Have Fun harlem Shake :) ! 
