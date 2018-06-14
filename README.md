@@ -10,4 +10,6 @@ How to install it to chrome extenstion?
  - press the "Harlem Shake Icon" in the chrome extenstion top panel
  - or use shortcut: "Ctrl + Shift + F" or "MacCtrl + Shift + F"
  
+ ![Alt Text](https://github.com/ChenReuven/HarlemShake-ChromEextenstion/blob/master-copy/giphy.gif)
+ ![grab-landing-page](https://github.com/ChenReuven/HarlemShake-ChromEextenstion/blob/master-copy/giphy.gif)
  Have Fun harlem Shake :) ! 
